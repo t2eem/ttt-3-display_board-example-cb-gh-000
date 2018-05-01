@@ -3,4 +3,5 @@ def display_board
   puts cells
   rows = "   |   |   "
   puts rows
+  puts "-----------"
 end
