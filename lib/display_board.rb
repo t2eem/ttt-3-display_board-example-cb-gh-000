@@ -1,7 +1,6 @@
 def display_board
   cells = "   "
   puts cells
-  rows = "   |   "
+  rows = "   |   |   "
   puts rows
-  rows = ("   |   |   ")
 end
