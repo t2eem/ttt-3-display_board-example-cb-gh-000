@@ -5,5 +5,6 @@ def display_board
   puts rows
   puts "-----------"
   puts rows
+  puts "-----------"
 
 end
